@@ -6,7 +6,7 @@
 }
 .progress-wrap {
   background: #05B94C;
-  margin: 20px 0px;
+  margin: 20px 0;
   overflow: hidden;
   position: relative;
   .progress-bar {
