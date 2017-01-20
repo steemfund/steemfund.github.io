@@ -1,4 +1,8 @@
 progress[value] {
+  /* Reset the default appearance */
+  -webkit-appearance: none;
+   appearance: none;
+
   width: 250px;
   height: 20px;
 }
